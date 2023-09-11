@@ -1,0 +1,49 @@
+{
+    "name": "jumpy platformer",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.39",
+        "tag": "v1.12.39",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/db40d39ef52b9d1c73318c363ee95253a3b5a3f5",
+        "target": "1.12.39",
+        "pxt": "8.5.51",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#D30D0D",
+        "#8A0000",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#00FF1E",
+        "#027500",
+        "#004705",
+        "#965145",
+        "#451002",
+        "#B4816E",
+        "#844039",
+        "#000000"
+    ]
+}
